@@ -1,5 +1,5 @@
 # conta-banco-dio
-## desafio conta-banco do curso de Java Básico DIO
+## Desafio Simulando uma conta bancária através do Terminal/Console de Java Básico DIO
 
 www.dio.me
 
